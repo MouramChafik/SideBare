@@ -24,7 +24,7 @@ function App() {
         <div className="flex items-center justify-between px-4 py-4 border-b border-gray-200 dark:border-gray-700">
           {isOpen && (
             <h1 className="text-2xl font-bold text-indigo-600 dark:text-indigo-400">
-              MonApp
+              Sidebar 
             </h1>
           )}
           <button

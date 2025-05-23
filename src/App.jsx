@@ -95,7 +95,7 @@ function App() {
           Bienvenue dans l'application
         </h2>
         <p>
-          Voici une sidebar moderne, avec ouverture/fermeture extrait de code que vous pouvez lz trouvez sur mon  <br />
+          Voici une sidebar moderne, avec ouverture/fermeture extrait de code que vous pouvez le trouvez sur mon  <br />
           <a
             href="https://github.com/MouramChafik"
             className="text-indigo-600 dark:text-indigo-400 hover:underline "
